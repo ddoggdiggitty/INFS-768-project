@@ -4,9 +4,9 @@ env-infs768
 # notebook checkpoints
 *.ipynb_checkpoints
 
-# Microsoft Files
-*.docx
-*.xlsx
+# # Microsoft Files
+# *.docx
+# *.xlsx
 
 # browser files
 *.pdf
