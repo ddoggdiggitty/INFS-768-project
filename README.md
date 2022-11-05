@@ -1,1 +1,1 @@
-# INFS-768-group-project
+# INFS-768-project
