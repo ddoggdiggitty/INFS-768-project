@@ -1,0 +1,24 @@
+# python virtual environment folders
+env-infs768
+
+# notebook checkpoints
+*.ipynb_checkpoints
+
+# Microsoft Files
+*.docx
+*.xlsx
+
+# browser files
+*.pdf
+*.mhtml
+*.html
+
+# Video
+*.mp4
+
+# Pictures
+*.png
+*.jpg
+*.jpeg
+desktop.ini
+*.tmp

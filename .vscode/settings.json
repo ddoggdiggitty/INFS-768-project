@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "editor.fontSize": 14,
+    "python.defaultInterpreterPath": "",
+    "typescript.suggest.paths": false,
+    "javascript.suggest.paths": false,
+    "ipynb.experimental.pasteImages.enabled": true,
+    "notebook.output.textLineLimit": 15,
+    "jupyter.generateSVGPlots": false,
+    "python.analysis.typeCheckingMode": "basic"
+}
