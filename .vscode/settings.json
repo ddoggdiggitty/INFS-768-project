@@ -2,7 +2,6 @@
     "python.terminal.activateEnvInCurrentTerminal": true,
     "python.terminal.activateEnvironment": true,
     "editor.fontSize": 14,
-    "python.defaultInterpreterPath": "",
     "typescript.suggest.paths": false,
     "javascript.suggest.paths": false,
     "ipynb.experimental.pasteImages.enabled": true,
