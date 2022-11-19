@@ -8,5 +8,6 @@
     "jupyter.generateSVGPlots": false,
     "python.analysis.typeCheckingMode": "off",
     "jupyter.experimental.kernelPickerType": "Insiders",
-    "python.analysis.inlayHints.functionReturnTypes": false
+    "python.analysis.inlayHints.functionReturnTypes": false,
+    "terminal.integrated.cwd": "C:\\users\\dados\\Documents\\INFS-768-group-project"
 }
