@@ -10,5 +10,6 @@
     "jupyter.experimental.kernelPickerType": "Insiders",
     "python.analysis.inlayHints.functionReturnTypes": false,
     "terminal.integrated.cwd": "C:\\users\\dados\\Documents\\INFS-768-group-project",
-    "python.defaultInterpreterPath": ""
+    "python.defaultInterpreterPath": "",
+    "jupyter.notebookFileRoot": ""
 }
