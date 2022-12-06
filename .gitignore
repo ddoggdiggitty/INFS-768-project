@@ -5,8 +5,8 @@ env-infs768
 *.ipynb_checkpoints
 
 # # Microsoft Files
-# *.docx
-# *.xlsx
+*.docx
+*.xlsx
 
 # browser files
 *.pdf
@@ -17,11 +17,8 @@ env-infs768
 *.mp4
 
 # Pictures
-*.png
+# .png
 *.jpg
 *.jpeg
 desktop.ini
 *.tmp
-Group Project/Reports and Files/Project Final Report Template.docx
-Group Project/Reports and Files/Project Update Template.docx
-Group Project/Reports and Files/project plan.docx
