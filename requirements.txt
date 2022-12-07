@@ -17,6 +17,7 @@ debugpy==1.6.3
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
+et-xmlfile==1.1.0
 executing==1.2.0
 fastjsonschema==2.16.2
 fonttools==4.38.0
@@ -31,6 +32,10 @@ Jinja2==3.1.2
 joblib==1.1.0
 json5==0.9.10
 jsonschema==4.17.0
+jupyter-contrib-core==0.4.2
+jupyter-contrib-nbextensions==0.7.0
+jupyter-highlight-selected-word==0.2.0
+jupyter-nbextensions-configurator==0.6.1
 jupyter-server==1.23.2
 jupyter_client==7.4.4
 jupyter_core==4.11.2
@@ -38,6 +43,7 @@ jupyterlab==3.5.0
 jupyterlab-pygments==0.2.2
 jupyterlab_server==2.16.3
 kiwisolver==1.4.4
+lxml @ file:///C:/PythonVirtualEnvs/.lxml/lxml-4.9.0-cp311-cp311-win_amd64.whl
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 matplotlib-inline==0.1.6
@@ -51,6 +57,7 @@ nest-asyncio==1.5.6
 notebook==6.5.2
 notebook_shim==0.2.2
 numpy==1.23.4
+openpyxl==3.0.10
 packaging==21.3
 pandas==1.5.1
 pandocfilters==1.5.0
@@ -69,6 +76,7 @@ python-dateutil==2.8.2
 pytz==2022.6
 pywin32==305
 pywinpty==2.0.9
+PyYAML==6.0
 pyzmq==24.0.1
 requests==2.28.1
 scikit-learn==1.1.3
